@@ -1,0 +1,7 @@
+{
+  "name": "Baemyung 33 Golf Score Tracker",
+  "description": "배명고등학교 33기 (응답하라 1987) 전용 프리미엄 골프 스코어 트래커 및 회계 관리 시스템",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
